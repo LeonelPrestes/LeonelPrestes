@@ -33,12 +33,12 @@ Atualmente, estou expandindo meus conhecimentos em Python e melhorando o meu ing
 Sou baterista apaixonado por música e tenho grande interesse em eletrônica, física, química e astronomia.
 
 ## 💼 Algumas Experiências
-- Aplicativo web para gerenciar pedidos para cozinha de restaurantes [Logseq](https://github.com/LeonelPrestes/pronto-para-cozinha)
-- Desenvolvimento de Bots para operações em corretoras. [Logseq](https://github.com/LeonelPrestes/spotbot)
-- Contribuição para [Logseq](https://github.com/codiacademy/ChallengeVII-intensivo-ufjf), projeto de gestão financeira para rede de escola.
+- Aplicativo web para gerenciar pedidos para cozinha de restaurantes [Pronto para Cozinhar](https://github.com/LeonelPrestes/pronto-para-cozinha)
+- Desenvolvimento de Bots para operações em corretoras. [Spot-Bot](https://github.com/LeonelPrestes/spotbot)
+- Contribuição para [Codi-Cash](https://github.com/codiacademy/ChallengeVII-intensivo-ufjf), projeto de gestão financeira para rede de escola.
 - Automação de post em redes sociais utilizando n8n e potatle.
 - Automação de tarefas repetitivas para aumentar a produtividade.
-- Projeto de e-commerce [Logseq](https://github.com/LeonelPrestes/online-store)
+- Projeto de e-commerce [Online-Store](https://github.com/LeonelPrestes/online-store)
 
 
 ## 🗺️ Idiomas

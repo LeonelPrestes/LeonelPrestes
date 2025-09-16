@@ -1,17 +1,17 @@
 ## Quem Sou Eu?
-Olá! Sou Cosmo, um programador full stack com mais de uma década de experiência, especializado em desenvolvimento de software e tecnologias emergentes.
+Olá! Sou o Leonel, um programador full stack junior sempre buscandoo novos conhecimento.
 
 ## 🌟 Principais Habilidades 
 
 ### 🖥️ Linguagens
 - JavaScript
 - TypeScript
-- Node.JS
 - SQL
 - HTML
 - CSS
 
 ### 📚 Frameworks e Stacks
+- Node
 - Next.JS
 - React.JS
 - Express
